@@ -1,0 +1,3 @@
+mame:
+  rompath: ~/Games/mame/roms_bios
+system: {}

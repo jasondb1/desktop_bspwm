@@ -1,0 +1,4 @@
+dosbox: {}
+game:
+  main_file: /home/jason/Games/dos/WINTER/WINTER.EXE
+system: {}

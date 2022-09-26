@@ -1,0 +1,5 @@
+dosbox: {}
+game:
+  config_file: /home/jason/Games/dos/s2g/SETUP.EXE
+  main_file: /home/jason/Games/dos/s2g/S2.EXE
+system: {}

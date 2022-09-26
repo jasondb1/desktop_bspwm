@@ -1,0 +1,3 @@
+system:
+  disable_compositor: true
+  vk_icd: /usr/share/vulkan/icd.d/intel_icd.i686.json:/usr/share/vulkan/icd.d/intel_icd.x86_64.json

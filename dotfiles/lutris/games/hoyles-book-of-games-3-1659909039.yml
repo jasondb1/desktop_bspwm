@@ -1,0 +1,4 @@
+dosbox: {}
+game:
+  main_file: /home/jason/Games/dos/hoyle3/sierra.bat
+system: {}

@@ -1,0 +1,5 @@
+dosbox: {}
+game:
+  config_file: /home/jason/Games/dos/tim2/INSTALL.BAT
+  main_file: /home/jason/Games/dos/tim2/TIM2.EXE
+system: {}

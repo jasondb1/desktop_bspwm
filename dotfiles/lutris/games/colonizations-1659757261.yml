@@ -1,0 +1,10 @@
+dosbox:
+  fullscreen: true
+game:
+  config_file: /home/jason/Games/dos/COLONIZE/INSTALL.EXE
+  main_file: /home/jason/Games/dos/COLONIZE/COLONIZE.BAT
+  working_dir: ~/Games/dos/COLONIZE
+system:
+  disable_compositor: true
+  game_path: ~/Games/dos/COLONIZE
+  vk_icd: /usr/share/vulkan/icd.d/intel_icd.i686.json:/usr/share/vulkan/icd.d/intel_icd.x86_64.json

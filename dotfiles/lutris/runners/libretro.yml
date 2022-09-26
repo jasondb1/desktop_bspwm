@@ -1,0 +1,4 @@
+libretro: {}
+system:
+  pulse_latency: true
+  single_cpu: true

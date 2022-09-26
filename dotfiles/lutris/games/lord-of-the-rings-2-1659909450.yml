@@ -1,0 +1,5 @@
+dosbox: {}
+game:
+  config_file: /home/jason/Games/dos/lotr2/SETUP.EXE
+  main_file: /home/jason/Games/dos/lotr2/TOWERS.EXE
+system: {}

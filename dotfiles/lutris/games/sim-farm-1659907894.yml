@@ -1,0 +1,5 @@
+dosbox: {}
+game:
+  config_file: /home/jason/Games/dos/simfarm/simfarm.exe
+  main_file: /home/jason/Games/dos/simfarm/simfarm.exe
+system: {}

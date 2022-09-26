@@ -1,0 +1,4 @@
+dosbox: {}
+game:
+  main_file: /home/jason/Games/dos/keen2/KEEN2.EXE
+system: {}

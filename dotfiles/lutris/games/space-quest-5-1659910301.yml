@@ -1,0 +1,5 @@
+game:
+  game_id: SQ5
+  path: ~/Games/Scummvm/sq5
+scummvm: {}
+system: {}

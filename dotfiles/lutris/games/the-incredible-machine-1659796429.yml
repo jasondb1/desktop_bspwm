@@ -1,0 +1,6 @@
+dosbox:
+  fullscreen: true
+game:
+  main_file: /home/jason/Games/dos/tim1/TIM.EXE
+  working_dir: ~/Games/dos/tim1
+system: {}

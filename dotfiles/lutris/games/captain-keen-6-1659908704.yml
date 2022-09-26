@@ -1,0 +1,4 @@
+dosbox: {}
+game:
+  main_file: /home/jason/Games/dos/keen6/AUDIO.CK6
+system: {}

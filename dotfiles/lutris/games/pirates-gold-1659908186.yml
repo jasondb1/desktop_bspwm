@@ -1,0 +1,5 @@
+dosbox: {}
+game:
+  config_file: /home/jason/Games/dos/piratesg/INSTALL.EXE
+  main_file: /home/jason/Games/dos/piratesg/PIRATESG.EXE
+system: {}

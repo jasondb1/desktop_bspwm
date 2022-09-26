@@ -1,0 +1,4 @@
+dosbox: {}
+game:
+  main_file: /home/jason/Games/dos/hoyle1/SIERRA.COM
+system: {}

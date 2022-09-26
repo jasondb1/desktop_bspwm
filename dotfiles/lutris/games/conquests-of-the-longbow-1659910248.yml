@@ -1,0 +1,5 @@
+game:
+  game_id: robin
+  path: ~/Games/Scummvm/longbow
+scummvm: {}
+system: {}
