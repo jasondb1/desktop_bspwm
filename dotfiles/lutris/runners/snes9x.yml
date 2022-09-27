@@ -1,4 +1,0 @@
-snes9x:
-  fullscreen: true
-system:
-  game_path: ~/Games/snes

@@ -22,7 +22,7 @@ git clone https://github.com/AdnanHodzic/auto-cpufreq.git
 cd auto-cpufreq && sudo ./auto-cpufreq-installer
 sudo auto-cpufreq --install
 
-apt install picom bspwm sxhkd polybar rofi feh lighgtdm dmenu kitty caja flameshot lxpolkit lxappearance xorg pulseaudio pulseaudio-alsa pulseaudio-bluetooth bluez-utils pavucontrol -y
+apt install picom bspwm sxhkd polybar rofi feh lighgtdm dmenu kitty caja flameshot lxpolkit lxappearance xorg pulseaudio pavucontrol -y
 
 sudo apt install geany thunderbird bluez blueman xclip xfce4-power-manager fonts-roboto xbacklight xinput qt5-style-plugins font-manager brightnessctl redshift network-manager network-manager-gnome -y
 sudo apt install libnotify-bin -y
@@ -109,6 +109,13 @@ bluetoothctl trust FC:69:47:7C:9D:A3
 #Connection successful
 #[AirPods]# trust B8:5D:0A:52:EF:86
 #Changing B8:5D:0A:52:EF:86 trust succeeded
+
+#github config
+ssh-keygen -t rsa -b 4096 -C "jason@teamdeboer.ca"
+pbcopy < ~/.ssh/id_rsa.pub
+git config --global credential.helper cache
+git config --global credential.helper 'store --file ~/.my-credentials'
+
 
 
 #cd $builddir

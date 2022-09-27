@@ -1,6 +1,0 @@
-game:
-  exe: /home/jason/Games/murder-on-the-orient-express/drive_c/Program Files (x86)/The
-    Adventure Company/Murder on the Orient Express/motoe.exe
-  prefix: /home/jason/Games/murder-on-the-orient-express
-wine:
-  version: lutris-7.2-2-x86_64

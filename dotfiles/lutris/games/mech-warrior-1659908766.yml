@@ -1,5 +1,0 @@
-dosbox: {}
-game:
-  config_file: /home/jason/Games/dos/mechw/install.bat
-  main_file: /home/jason/Games/dos/mechw/mw.exe
-system: {}

@@ -1,5 +1,0 @@
-dosbox: {}
-game:
-  config_file: /home/jason/Games/dos/silpheed/INSTALL.EXE
-  main_file: /home/jason/Games/dos/silpheed/SILPHEED.BAT
-system: {}

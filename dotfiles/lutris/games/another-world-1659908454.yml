@@ -1,5 +1,0 @@
-dosbox: {}
-game:
-  config_file: /home/jason/Games/dos/another/(SETUP).BAT
-  main_file: /home/jason/Games/dos/another/RUNME.BAT
-system: {}
